@@ -1,6 +1,6 @@
 # password-validator-for-signup-pages
 
-```
+```javascript
 
 // // // Password validator for login pages
  
